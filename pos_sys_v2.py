@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-あきぽす
-売上登録・取消・集計機能付き
-"""
-
 import tkinter as tk
 from tkinter import ttk, messagebox, simpledialog
 import sqlite3
